@@ -126,6 +126,41 @@ setelah runing masukan bilangan dari yangterbesar hingga terkecil hingga hasil a
 
 ## latihan 6
 
+![gambar](gambarlab4/rid7.png)
+
+pertama-tama kita print dan masukan nama kita 
+lalu masukan n, =, dan 1, lalu enter dan masukan a, =, dan 0. jadi keliahatnnya seprti ini:
+```
+n=1
+a=0
+```
+fungsi nya adalah untuk menentukan nilai terbesar, lalu enter dan tambahkan while n, !, =, 0, dan :. setelah itu enter, nah pas saat enter pastikan tidak sejajar dengan while, setelah itu tambahkan if n, >, a, dan : enter lalu tambahkan a = n, kemudian enter tambahkan n dan = lalu input ketik masukan bilanagan gunakan (, :, dan " sebagai syntax nya, lalu lanjut enter dan tambahkan if, n, ==, 0, dan : enter dan masukan break tidak sejajar dengan if, enter masukan prinan sperti sbmnya bedanya tambahkan a. jadi keliatannya seperti ini:
+```
+while n !=0:
+
+    if n > a:
+        a = n
+    n = int(input("masukan Bialangan: "))
+    
+    if n == 0:
+        break
+    print("Nilai terbesarnya adalah:", a)
+```
+fungsinya adalah memasukan niali terbesar.
+
+![gambar](gambarlab4/rid8.png)
+
+setelah runnuing dari hasil kodingan di atas lalu masukan bilangan terbesar lalu enter dam asukan nilai yang lebih kecila kemudian enter lagi dan akan menentukan nilai terbesarnya.
+
+## latihan 7
+
+![gambar](gambarlab4/rid9.png)
+
+gunanya menambahkan kodingan sperti diatas adalah untuk menghitung laba dari bulan kesatu hingga ke 8
+
+![gambar](gambarlab4/rid.png)
+
+
 
 
 
