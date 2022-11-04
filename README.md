@@ -22,15 +22,15 @@ lalu hasil runing nya seperti gambar berikut:
 ## latihan 2
 
 mula-mula kita buat input terlebih dahulu contohnya seperti dibawah ini:
-
+```
 a = int(input('bilangan ke-1 = '))
 
 b = int(input('bilangan ke-2 = '))
 
 c = int(input('bilangan ke-3 = '))
-
+```
 lalu tambahkan 
-
+```
 if a < b:
 
     if b < c:
@@ -56,7 +56,7 @@ else:
          else:
          
             print('urutan bilangan : ', c
-            
+```            
 dan saat runing kita sebut bilangan yang inin kita ururkan 
 lalu hasil runing nya seperti gambar berikut:
 
@@ -65,7 +65,7 @@ lalu hasil runing nya seperti gambar berikut:
 ## latihan 3
 
 mula-mula kita buat koddinagnnya dulu seperti berikut:
-
+```
 for i in range(0, 10):
 
     for j in range(0, 10):
@@ -80,7 +80,7 @@ x = input("masukan angka :")
 if x > y:
 
     print(x, "y")
-    
+```    
 print("ini diluar pernyataan if")
 
 maka runingannya akan seperti gambar berikut:
@@ -90,7 +90,7 @@ maka runingannya akan seperti gambar berikut:
 ## latihan 4
 
 mula-mula kita buat koddinagnnya dulu seperti berikut:
-
+```
 import random
 
 n = int(input("masukan nilai N : "))
@@ -102,11 +102,16 @@ for i in range(n):
     print("data ke :", i+1, "=> ", a)
     
     print('sahrul ridwamsyah')
-    
+```    
 setelah runing akan diminta masukan nilai n, disini saya memasukan nilai n-nya 12
 dan hasil runningannya akan seperti gambar berikut:
 
 ![gambar](gambarlab4/rid4.png)
+
+## latihan 5
+
+
+
 
 
 
