@@ -158,7 +158,7 @@ setelah runnuing dari hasil kodingan di atas lalu masukan bilangan terbesar lalu
 
 gunanya menambahkan kodingan sperti diatas adalah untuk menghitung laba dari bulan kesatu hingga ke 8
 
-![gambar](gambarlab4/rid.png)
+![gambar](gambarlab4/rid10.png)
 
 
 
