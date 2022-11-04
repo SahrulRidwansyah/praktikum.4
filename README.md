@@ -110,6 +110,24 @@ dan hasil runningannya akan seperti gambar berikut:
 
 ## latihan 5
 
+![gambar](gambarlab4/rid5.png)
+
+jadi masukan x, y, z sebagai inputan untuk memasukan bilangan
+lalu tambahkan if menandakan bahwa x lebih besar dari z lalu tambahkan titik dua 
+jadi seperti ini
+If  x > z:
+lakukan juga pada x dan y lalu print dan ketik masukan bilangan terbesar,
+lalu selanjutnya tambahkan elif, elif sama dengan else yaitu untuk menambah aksi untuk menentukan bahwa x lebih besar dari z dan y lebih besar dari z,
+setelah menjalani codingan sperti penjelasan dan gambar di atas lalu runing
+
+![gambar](gambarlab4/rid6.png)
+
+setelah runing masukan bilangan dari yangterbesar hingga terkecil hingga hasil akhirnya menunnjukan bilangan terbesar dari tiga bialangan yg di sebut
+
+## latihan 6
+
+
+
 
 
 
